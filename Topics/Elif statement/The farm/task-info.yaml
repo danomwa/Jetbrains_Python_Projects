@@ -1,0 +1,23 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6534#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 29. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    680
+    Correct output:
+    1 goat
+
+    Your code output:
+    1 goat
+    1 goats
+  time: Tue, 14 Sep 2021 07:20:17 UTC
+record: -1
