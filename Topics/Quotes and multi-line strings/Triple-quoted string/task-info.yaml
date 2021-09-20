@@ -5,5 +5,9 @@ files:
   text: print(...)
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/6882#comment
-status: Unchecked
+status: Failed
+feedback:
+  message: |
+    Failed. Cannot check answer. Perhaps output format is wrong.
+  time: Mon, 20 Sep 2021 07:04:21 UTC
 record: -1
